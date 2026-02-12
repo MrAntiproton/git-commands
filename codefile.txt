@@ -2,3 +2,6 @@ This is an example text file for Git operations.
 Added second line.
 Third line added.
 Fourth line for the fourth commit.
+Fifth line for the fifth commit.
+Sixth line for the sixth commit.
+Seventh line for the seventh commit.
