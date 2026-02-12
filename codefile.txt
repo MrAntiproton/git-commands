@@ -1,2 +1,3 @@
 This is an example text file for Git operations.
 Added second line.
+Third line added.
